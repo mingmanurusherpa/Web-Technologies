@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width:100%;
+    height: 772px;;
+    background-color: brown;
+}
+.flexcontainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.flexitem{
+    border: 1px solid;
+
+}
